@@ -1,5 +1,4 @@
 import React from "react";
-import "./AlertModal.css";
 
 const AlertModal = ({ message, onClose }) => {
   return (
