@@ -1,0 +1,16 @@
+/* AlertModal.css */
+ 
+.modal-content {
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+  
